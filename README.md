@@ -1,1 +1,1 @@
-# Rasul
+gh repo clone Kabaddiking/Rasul
